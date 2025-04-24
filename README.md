@@ -81,7 +81,7 @@
 
 - 💼 [LinkedIn](https://br.linkedin.com/in/karenarwen)
 - 📱 WhatsApp: +55 11 98675-0652
-- 📧 Email: karen.seuemail@gmail.com *(replace with your real email)*
+- 📧 Email: arwenkaren1207@gmail.com
 - 🐙 GitHub: [github.com/karen-arwen](https://github.com/karen-arwen)
 
 ---
