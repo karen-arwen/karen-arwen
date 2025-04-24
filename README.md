@@ -2,7 +2,7 @@
 
 <p align="center">
   💻 Computer Science student | 👩‍💻 Apprentice and Assistant Programmer at Agsolve <br>
-  🌎 Indaiatuba - SP | 🚀 Passionate about innovation, technology, and creating things that connect the real world to the digital one
+  🌎 Indaiatuba, SP - Brazil | 🚀 Passionate about innovation, technology, and creating things that connect the real world to the digital one
 </p>
 
 ---
